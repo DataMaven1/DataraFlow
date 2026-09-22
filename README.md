@@ -20,7 +20,7 @@ DataraFlow delivers an intensive learning experience that combines a structured 
 
 I'm documenting my journey — projects, concepts, and challenges — in a dedicated blog series.
 
-➡️ [Follow my DataraFlow Series](#) *([add your blog link here](https://medium.com/@abdqayyumyussuf/list/abdulqayyum-at-dataraflow-450309bb5313))*
+➡️ [Follow my DataraFlow Series](#) *([https://medium.com/@abdqayyumyussuf/list/abdulqayyum-at-dataraflow-450309bb5313])*
 
 ## 6-Month Program Structure
 
