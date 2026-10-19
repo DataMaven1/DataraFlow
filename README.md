@@ -26,10 +26,10 @@ I'm documenting my journey — projects, concepts, and challenges — in a dedic
 
 The program is broken down into monthly focus areas, from foundations to advanced deployment. This repo will fill in with code and notes as each month is completed.
 
-### Month 1: Foundations — 🔄 In Progress (Week 3)
+### Month 1: Foundations — ✅ Completed
 - Topics: Program Introduction, Setup & Overview, Python Programming, NumPy, Research Methodology
 
-### Month 2: Data Analysis — ⬜ Upcoming
+### Month 2: Data Analysis — 🔄 In Progress
 - Topics: Pandas, Advanced Data Analysis, Data Wrangling & Transformation
 
 ### Month 3: Advanced Analysis & Visualization — ⬜ Upcoming
