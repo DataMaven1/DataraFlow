@@ -29,10 +29,10 @@ The program is broken down into monthly focus areas, from foundations to advance
 ### Month 1: Foundations — ✅ Completed
 - Topics: Program Introduction, Setup & Overview, Python Programming, NumPy, Research Methodology
 
-### Month 2: Data Analysis — 🔄 In Progress
+### Month 2: Data Analysis — ✅ Completed
 - Topics: Pandas, Advanced Data Analysis, Data Wrangling & Transformation
 
-### Month 3: Advanced Analysis & Visualization — ⬜ Upcoming
+### Month 3: Advanced Analysis & Visualization — 🔄 In Progress
 - Topics: Advanced Data Analysis, Data Visualization (Matplotlib, Seaborn, Plotly), Web Scraping
 
 ### Month 4: Projects & Assessments — ⬜ Upcoming
